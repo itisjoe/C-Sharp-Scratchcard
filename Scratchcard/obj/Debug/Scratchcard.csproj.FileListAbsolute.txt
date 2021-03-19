@@ -1,0 +1,10 @@
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\bin\Debug\Scratchcard.exe.config
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\bin\Debug\Scratchcard.exe
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\bin\Debug\Scratchcard.pdb
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\obj\Debug\Scratchcard.csprojAssemblyReference.cache
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\obj\Debug\Scratchcard.Form1.resources
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\obj\Debug\Scratchcard.Properties.Resources.resources
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\obj\Debug\Scratchcard.csproj.GenerateResource.cache
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\obj\Debug\Scratchcard.csproj.CoreCompileInputs.cache
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\obj\Debug\Scratchcard.exe
+C:\Users\Chiao\source\repos\Scratchcard\Scratchcard\obj\Debug\Scratchcard.pdb
